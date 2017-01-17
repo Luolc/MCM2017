@@ -5,7 +5,7 @@ Something about MCM 2017 with Miao Yu and Zibu Liu.
 
 ### TO-DO
 - [ ] UMAP杂志
-  - 找到能看的地方，注意看**评委评价**
+  - [x] ~~找到能看的地方~~(见Google Drive)，注意看**评委评价**
   - 每个人按年份阅读O奖摘要
     - 骆::2011、2014
     - 刘::2012、2015
