@@ -8,7 +8,7 @@ Something about MCM 2017 with Miao Yu and Zibu Liu.
   - [x] ~~找到能看的地方~~(见Google Drive)，注意看**评委评价**
   - [ ] 每个人按年份阅读O奖摘要
     - 骆::2011、[2014](preparation/summary-of-outstandings/2014.md)
-    - 刘::2012、2015
+    - 刘::2012、[2015](preparation/summary-of-outstandings/2015.md)
     - 于::2013、2016
   - [ ] 总结出需要准备的模型
 - [ ] LaTex模板
